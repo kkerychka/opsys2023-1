@@ -1,2 +1,3 @@
-# opsys2023
-OPeratsioonisüsteemid 2023 dokumentatsioon
+# LTAT.06.001 Operatsioonisüsteemid kursuse näidis Github repositoorium
+
+Tere tulemast Tartu Ülikooli operatsioonisüsteemid 2023 kursuse praktikumide dokumentatsiooni lehele. Õpilane Alo Peets on tubli ja plaanib kõik praktikumid kenasti ära teha. Iga praktikumi kohta koostab eraldi *.md nimelise alamfaili ja jagab kogu dokumentatsiooni projekti tervikuna õppejõududega mitte iga faili eraldi. Käesolev repositoorium on avalik, aga teised tudengid võivad koostada ka privaatse andmehoidla ja jagada selle õppejõu kontoga a**p@ut.ee . Kui on koostatud privaatne repositoorium on vaja see kindlasti ka õppejõududega jagada, sest muidu ei saa õppejõud seda hinnata. 
